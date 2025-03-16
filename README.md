@@ -1,0 +1,2 @@
+# didgitacao
+como digitar pausadamente
